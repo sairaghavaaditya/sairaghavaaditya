@@ -41,7 +41,7 @@ I'm a **Final-year B.Tech CSE (AI & ML)** student passionate about designing sca
 ---
 
 ## 📫 Let's Connect!  
-🌐 [Portfolio](https://aditya-msr-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/sai-raghava-aditya-madabathula-924840259/)  | 🧑‍💻 [LeetCode](leetcode.com/u/22a31a4245) | 🎯 [HackerRank](https://www.hackerrank.com/profile/22A31A4245) 
+🌐 [Portfolio](https://aditya-msr-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/sai-raghava-aditya-madabathula-924840259/)  | 🧑‍💻 [LeetCode](https://leetcode.com/u/22a31a4245) | 🎯 [HackerRank](https://www.hackerrank.com/profile/22A31A4245) 
 
 ---
 ⭐ *I love building scalable apps & backends — check out my projects and feel free to connect!*  
