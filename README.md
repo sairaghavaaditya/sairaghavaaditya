@@ -1,38 +1,47 @@
-# 👋 Hi, I'm Sai Raghava Aditya Madabathula  
+# 👋 Hi, I'm Sai Raghava Aditya  
 
-🎓 Final-year **B.Tech CSE (AI & ML)** student | 💻 Passionate about **Backend Development & AI/ML**  
-🚀 Building scalable web apps, intelligent systems, and contributing to open-source.  
+💻 Full-Stack Developer | ⚙️ Backend Specialist | 🤖 AI Enthusiast  
 
----
-
-## 🚀 About Me  
-- 🔭 Currently working on **Full-Stack & AI-powered applications**  
-- 🌱 Exploring **System Design, Cloud (AWS), and MLOps**  
-- 🏆 Runner-up at **Smart India Hackathon 2024**  
-- 💡 Interests: Backend APIs, AI pipelines, NLP, Cloud Deployment  
+I'm a **Final-year B.Tech CSE (AI & ML)** student passionate about designing scalable backends, building full-stack applications, and integrating AI into real-world solutions.  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, Java, SQL  
-**Backend:** Spring Boot, Django, REST APIs  
-**Frontend:** React, HTML, CSS  
-**Databases:** MySQL, PostgreSQL  
-**AI/ML:** PyTorch, Hugging Face, TensorFlow, Scikit-learn  
-**Tools:** Git, Streamlit, Postman  
+## 🚀 What I Do  
+- 🏗️ Build **scalable REST APIs & microservices** with **Spring Boot & Django**  
+- 🗄️ Design and optimize **databases** with MySQL & PostgreSQL  
+- 🌐 Develop **full-stack apps** using React.js + modern backend frameworks  
+- 🤖 Integrate **AI/ML models** (PyTorch, Hugging Face) into web applications  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+**Languages:** Python | Java | SQL  
+**Backend:** Spring Boot | Django | REST APIs | Hibernate/JPA  
+**Frontend:** React.js | HTML | CSS  
+**Databases:** MySQL | PostgreSQL  
+**AI/ML (addon):** PyTorch | Hugging Face | TensorFlow  
+**Tools:** Git | Postman | Streamlit  
 
 ---
 
 ## 📌 Featured Projects  
-- 🔹 **[Web-Based Selector-Applicant Simulation Software](your_link_here)** – AI-driven interview platform (Runner-up SIH 2024)  
-- 🔹 **[Cloud-Flex Multi-Cloud File Manager](your_link_here)** – REST APIs for Google Drive & OneDrive using Spring Boot  
-- 🔹 **[MelodAI – AI Music Composer](your_link_here)** – Text-to-music generation using NLP & MusicGen  
+
+🔹 **[Selector-Applicant Simulation Software]([your_link_here](https://github.com/sairaghavaaditya/RecruitSmart-Web-Based-applicant-selector-simulation))** – AI-powered interview system for DRDO (Runner-up @ SIH 2024)  
+🔹 **[Cloud-Flex Multi-Cloud File Manager]([your_link_here](https://github.com/sairaghavaaditya/CloudFlexMultiCloud-RestFulAPI-s))** – REST APIs to manage files across Google Drive & OneDrive  
+🔹 **[MelodAI]([your_link_here](https://github.com/sairaghavaaditya/MelodAI-AI-based-Music-Composer))** – Text-to-music generation with PyTorch + Hugging Face  
 
 ---
 
-## 📫 Connect with Me  
-🌐 [Portfolio](your_portfolio_link) | 💼 [LinkedIn](your_linkedin) | 🐙 [GitHub](https://github.com/sairaghavaaditya) | ✉️ sairaghavaaditya7@gmail.com  
+## 🏆 Highlights  
+- 🥈 **Runner-up – Smart India Hackathon 2024**  
+- 🎖️ **NPTEL:** DSA in Java (Top 2%), Java Programming (Top 5%)  
+- 🎓 **ServiceNow CSA & CAD Certified**  
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my repositories!*  
+## 📫 Let's Connect!  
+🌐 [Portfolio]([your_portfolio_link](https://aditya-msr-portfolio.netlify.app/)) | 💼 [LinkedIn]([your_linkedin](https://www.linkedin.com/in/sai-raghava-aditya-madabathula-924840259/))  | 🧑‍💻 [LeetCode](leetcode.com/u/22a31a4245) | 🎯 [HackerRank]([your_hackerrank](https://www.hackerrank.com/profile/22A31A4245))  
+
+---
+⭐ *I love building scalable apps & backends — check out my projects and feel free to connect!*  
